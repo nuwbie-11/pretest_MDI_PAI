@@ -1,6 +1,6 @@
 # mdi_app
 
-A new Flutter project.
+A mini project for Pretest at Pandawa Agri Indonesia as one of Mobile Developer Internship assesment
 
 ## Getting Started
 
@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Package Used 
+
+This project utilizing following Package
+- [Shared Preferences](https://pub.dev/packages/shared_preferences)https://pub.dev/packages/shared_preferences
+- [http](https://pub.dev/packages/http)https://pub.dev/packages/http
+
+## Usage
+
+- Shared Preferences is used to memorize whether some users are already logged in.
+- http is basically used for fetching to REST API
