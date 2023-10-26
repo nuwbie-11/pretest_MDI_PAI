@@ -18,8 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Package Used 
 
 This project utilizing following Package
-- [Shared Preferences](https://pub.dev/packages/shared_preferences)https://pub.dev/packages/shared_preferences
-- [http](https://pub.dev/packages/http)https://pub.dev/packages/http
+- [Shared Preferences](https://pub.dev/packages/shared_preferences)
+- [http](https://pub.dev/packages/http)
 
 ## Usage
 
